@@ -5,10 +5,10 @@ module.exports = {
   },
   extends: [
     'plugin:vue/essential',
-    '@vue/standard'
+    // '@vue/standard'
   ],
   parserOptions: {
-    parser: 'babel-eslint'
+    // parser: 'babel-eslint'
   },
   rules: {
     // 'indent': ['error', 4],
